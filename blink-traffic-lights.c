@@ -1,7 +1,7 @@
 int pinLedGreen = 1;
 int pinLedYellow = 2;
 int pinLedRed = 3;
-int delayTime = 1500;
+int delayTime = 3000;
 
 void setup()
 {
